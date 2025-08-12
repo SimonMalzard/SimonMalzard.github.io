@@ -1,25 +1,25 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
+    - name: Name:
       value: Simon Malzard
-    - name: Position
+    - name: Position:
       value: AI Research Associate
-    - name: Institution
+    - name: Institution:
       value: The Alan Turing Institute, London, UK
-    - name: Email
+    - name: Email:
       value: smalzard01(at)gmail(dot)com
-    - name: Website
+    - name: Website:
       value: <a href=https://simonmalzard.github.io/>https://simonmalzard.github.io/</a>
-    - name: GitHub
+    - name: GitHub:
       value: <a href=https://github.com/SimonMalzard>https://github.com/SimonMalzard</a>
-    - name: LinkedIn
+    - name: LinkedIn:
       value: <a href=https://www.linkedin.com/in/simon-malzard/>https://www.linkedin.com/in/simon-malzard/</a>
-    - name: Google Scholar
+    - name: Google Scholar:
       value: <a href=https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en>https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en</a>
 
 - Skills:
-  type: list
+  type: nested_list
   contents:
     - title: Programming Languages
       items:
@@ -73,49 +73,53 @@
       institution: The Alan Turing Institute, UK
       year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Created skeletal human action recognition application benchmarks for simulating real world conditions (such as malfunctioning cameras or constrained resources). Improving the state-of-the-art performance by 11% at low frame rates and delivering key insights for model failure modes in national security contexts.
+        - Co-developed an algorithm for guiding synthetic data modifications in gaming engines using explainability (SHAP) to reduce targeted class confusion.
+        - Provided python pre-processing pipeline for ingesting legacy automatic target recognition military datasets for use by the wider defence community.
+        - Delivered technical reports, publications, and secured ~£200,000 in grant funding for continuation of national security projects.
+        - Led and prototyped generative AI elements for funding proposals.
+        - Introduced institute defence and security “Tech-Talks” to foster increased cross-team collaboration.
+        - Associated publications: 
+          - <a href=https://arxiv.org/abs/2505.18048>SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios</a>
+          - <a href=https://arxiv.org/abs/2412.01477>Improving Object Detection by Modifying Synthetic Data with Explainable AI</a>
+          - <a href=https://www.arxiv.org/abs/2409.04982>2DSig-Detect: A semi-supervised framework for anomaly detection on image data using 2D-signatures</a>
+ 
     - title: Data Science Fellow
       institution: Faculty AI, UK
       year: Sept 2022 - Nov 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a decision-based classifier for detecting stress reduction using heart rate variability data to provide a proof of concept for BrainPatch’s neuro-stimulation headset. Resulting in successful grant applications to conduct further clinical trials.
+        - Built and delivered data pipeline for future projects and clinical trials.
+        - Completed an intensive course and internship covering technical and commercial aspects of Data Science and Machine Learning in the consultancy environment as part of Faculty AI’s Fellowship program.
 
     - title: Research Associate in Mathematics
       institution: Imperial College London
-      year: Oct 2018- May 2023
+      year: Oct 2018 - May 2023
       description:
-        - Description 1.
-        - Description 2.
-
+         - Developed and applied advanced statistical sampling techniques (Monte Carlo and stochastic particle simulations) for high-dimensional data analysis.
+         - Identified universal behaviour in parity-time symmetric quantum systems using finite element method simulations and Markov chain models.
+         - Hosted international workshops on random matrix theory.
+         - Hosted international collaboration between Imperial College London and the Technion – Israel Institute of Technology.
+         - Authored successful grant applications, bringing in £100k of funding to the University.
+         - Supervised 3 PhD students and 3 Masters' students, guiding them through their research projects and publications.
+         - Led projects from scoping to publication with PhD candidates and Masters' students.
+         - Taught undergraduate lectures and seminars for fundamentals of quantum mechanics to classes of 60-80 students.
+         - Organised workshops and hosted international seminars for visiting academics.
+ 
 - title: Certificates and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Winner of the “2025 Society for Technological Advancement (SoTA) Mechanistic Interpretability Hackathon”
+    - year: 2024
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Winner of the “2024 U.S. – UK Science and Technology (S&T) Cooperation Awards”
+        - NVIDIA DLI Certificate – Fundamentals of Deep Learning    
+    - year: 2023
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+        - Successful EPSRC Grant EP/X032256/1
+      
 - title: Other Interests
   type: list
   contents:
