@@ -1,21 +1,21 @@
 - title: General Information
   type: map
   contents:
-    - name: Name:
+    - name: "Name:"
       value: Simon Malzard
-    - name: Position:
+    - name: "Position:"
       value: AI Research Associate
-    - name: Institution:
+    - name: "Institution:"
       value: The Alan Turing Institute, London, UK
-    - name: Email:
+    - name: "Email:"
       value: smalzard01(at)gmail(dot)com
-    - name: Website:
+    - name: "Website:"
       value: <a href=https://simonmalzard.github.io/>https://simonmalzard.github.io/</a>
-    - name: GitHub:
+    - name: "GitHub:"
       value: <a href=https://github.com/SimonMalzard>https://github.com/SimonMalzard</a>
-    - name: LinkedIn:
+    - name: "LinkedIn:"
       value: <a href=https://www.linkedin.com/in/simon-malzard/>https://www.linkedin.com/in/simon-malzard/</a>
-    - name: Google Scholar:
+    - name: "Google Scholar:"
       value: <a href=https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en>https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en</a>
 
 - Skills:
@@ -79,10 +79,10 @@
         - Delivered technical reports, publications, and secured ~£200,000 in grant funding for continuation of national security projects.
         - Led and prototyped generative AI elements for funding proposals.
         - Introduced institute defence and security “Tech-Talks” to foster increased cross-team collaboration.
-        #- Associated publications: 
-        #  - <a href=https://arxiv.org/abs/2505.18048> SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios</a>
-        #  - <a href=https://arxiv.org/abs/2412.01477> Improving Object Detection by Modifying Synthetic Data with Explainable AI</a>
-        #  - <a href=https://www.arxiv.org/abs/2409.04982> 2DSig-Detect: A semi-supervised framework for anomaly detection on image data using 2D-signatures</a>
+        - Associated publications: 
+          - <a href=https://arxiv.org/abs/2505.18048> SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios</a>
+          - <a href=https://arxiv.org/abs/2412.01477> Improving Object Detection by Modifying Synthetic Data with Explainable AI</a>
+          - <a href=https://www.arxiv.org/abs/2409.04982> 2DSig-Detect: A semi-supervised framework for anomaly detection on image data using 2D-signatures</a>
  
     - title: Data Science Fellow
       institution: Faculty AI, UK
