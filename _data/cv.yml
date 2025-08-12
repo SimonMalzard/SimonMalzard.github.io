@@ -3,22 +3,22 @@
   contents:
     - name: Name
       value: Simon Malzard
-    - title: Position
+    - name: Position
       value: AI Research Associate
-    - institution: Institution
+    - name: Institution
       value: The Alan Turing Institute, London, UK
-    - email: Email
+    - name: Email
       value: smalzard01(at)gmail(dot)com
-    - website: Website
-      value: https://simonmalzard.github.io/
-    - github: GitHub
-      value: https://github.com/SimonMalzard
-    - linkedin: LinkedIn
-      value: https://www.linkedin.com/in/simon-malzard/
-    - scholar: Google Scholar
-      value: https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en
+    - name: Website
+      value: <a href=https://simonmalzard.github.io/>https://simonmalzard.github.io/</a>
+    - name: GitHub
+      value: <a href=https://github.com/SimonMalzard>https://github.com/SimonMalzard</a>
+    - name: LinkedIn
+      value: <a href=https://www.linkedin.com/in/simon-malzard/>https://www.linkedin.com/in/simon-malzard/</a>
+    - name: Google Scholar
+      value: <a href=https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en>https://scholar.google.co.uk/citations?user=MHX0FNQAAAAJ&hl=en</a>
 
-- skills:
+- Skills:
   type: list
   contents:
     - title: Programming Languages
@@ -93,7 +93,7 @@
         - Description 1.
         - Description 2.
 
-- title: Honors and Awards
+- title: Certificates and Awards
   type: time_table
   contents:
     - year: 1921

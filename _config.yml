@@ -629,11 +629,8 @@ jekyll_get_json:
 
 jsonresume:
   - Overview
+  - Skills
   - Experience
   - Education
   - Certificates and Awards
-  - certificates
-  - publications
-  - skills
-  - interests
-  - references
+  - Other Interests
