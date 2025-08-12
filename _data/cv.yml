@@ -79,10 +79,10 @@
         - Delivered technical reports, publications, and secured ~£200,000 in grant funding for continuation of national security projects.
         - Led and prototyped generative AI elements for funding proposals.
         - Introduced institute defence and security “Tech-Talks” to foster increased cross-team collaboration.
-        - Associated publications: 
-          - <a href=https://arxiv.org/abs/2505.18048>SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios</a>
-          - <a href=https://arxiv.org/abs/2412.01477>Improving Object Detection by Modifying Synthetic Data with Explainable AI</a>
-          - <a href=https://www.arxiv.org/abs/2409.04982>2DSig-Detect: A semi-supervised framework for anomaly detection on image data using 2D-signatures</a>
+        #- Associated publications: 
+        #  - <a href=https://arxiv.org/abs/2505.18048> SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios</a>
+        #  - <a href=https://arxiv.org/abs/2412.01477> Improving Object Detection by Modifying Synthetic Data with Explainable AI</a>
+        #  - <a href=https://www.arxiv.org/abs/2409.04982> 2DSig-Detect: A semi-supervised framework for anomaly detection on image data using 2D-signatures</a>
  
     - title: Data Science Fellow
       institution: Faculty AI, UK
