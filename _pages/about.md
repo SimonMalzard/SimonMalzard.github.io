@@ -28,18 +28,17 @@ latest_posts:
 I am AI researcher with a background in Physics and Statistics, currently working at <a href='https://www.turing.ac.uk/people/simon-malzard'>The Alan Turing Institute</a> on deep learning problems. My current work includes:
 
 - SHARDeg - Benchmarking Skeletal Human Action Recognition models in data degraded environments
-- Improving object detection by curating synthetic data using explainability and interpretability driven modifciations to CAD models. 
-- 2D-Sig-Detect - a semi-supervised framework for anomaly detection on image data for adverserial attacks. 
+- Improving object detection by curating synthetic data using explainability and interpretability driven modifciations to CAD models.
+- 2D-Sig-Detect - a semi-supervised framework for anomaly detection on image data for adverserial attacks.
 
-As a scientist, I'm deeply interested in discovering how things work. The Physicist inside me is particularly interested in understanding how machine learning models operate and scale and how to make them more reliable and robust. My interests include explainability, mechanistic interpretability, probabilistic modelling and uncertainty quantification. 
+As a scientist, I'm deeply interested in discovering how things work. The Physicist inside me is particularly interested in understanding how machine learning models operate and scale and how to make them more reliable and robust. My interests include explainability, mechanistic interpretability, probabilistic modelling and uncertainty quantification.
 
 Some side projects I'm working contributing on include
 
 - Project 1
 - Project 2
 
-### 
-
+###
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
