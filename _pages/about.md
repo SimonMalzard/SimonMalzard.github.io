@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>AI Research Asscoiate</b> @ <a href='https://www.turing.ac.uk/people/simon-malzard'>The Alan Turing Institute</a>, London, UK.
+subtitle: <b>AI Research Associate @ <a href='https://www.turing.ac.uk/people/simon-malzard'>The Alan Turing Institute</a>, London, UK.</b>
 
 profile:
   align: right
