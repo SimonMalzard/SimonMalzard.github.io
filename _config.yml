@@ -629,7 +629,7 @@ jekyll_get_json:
 
 jsonresume:
   - Overview
-  - Skills
   - Experience
   - Education
+  - Skills
   - Certificates and Awards
